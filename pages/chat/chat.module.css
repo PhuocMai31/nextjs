@@ -1,0 +1,52 @@
+.h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height, or 120% */
+
+
+    /* gray1 */
+
+    color: #666666;
+}
+.classify{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height, or 137% */
+
+
+    /* gray1 */
+
+    color: #666666;
+}
+.buttonClassify{
+    left: 78.23%;
+    right: 10.48%;
+    top: 38.75%;
+    bottom: 39.38%;
+
+    /* gray1 */
+
+    border: 1.5px solid #666666;
+}
+.chatRow{
+    width: 324px;
+    height: 60px;
+    left: 1px;
+    top: 0px;
+
+    background: #F7F8FC;
+}
+.avatar{
+    height: 36px;
+    width: 36px;
+    left: 15px;
+    top: 13px;
+    border-radius: 0px;
+    margin-left: 14px;
+}
